@@ -92,3 +92,6 @@ YNG/app/.gitignore
 */gradle*
 *.pro
 */settings.gradle
+
+app_key/
+app_release/
