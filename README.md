@@ -33,3 +33,19 @@ The rest of the players try to guess / solve the situation
 | ![screenshot](https://github.com/andybeardness/Android-YesNoGame/blob/main/imgs/shot_3.png) | ![screenshot](https://github.com/andybeardness/Android-YesNoGame/blob/main/imgs/shot_4.png) | ![screenshot](https://github.com/andybeardness/Android-YesNoGame/blob/main/imgs/shot_5.png) |
 | ![screenshot](https://github.com/andybeardness/Android-YesNoGame/blob/main/imgs/shot_dark_0.png) | ![screenshot](https://github.com/andybeardness/Android-YesNoGame/blob/main/imgs/shot_dark_1.png) | ![screenshot](https://github.com/andybeardness/Android-YesNoGame/blob/main/imgs/shot_dark_2.png) |
 | ![screenshot](https://github.com/andybeardness/Android-YesNoGame/blob/main/imgs/shot_dark_3.png) | ![screenshot](https://github.com/andybeardness/Android-YesNoGame/blob/main/imgs/shot_dark_4.png) | ![screenshot](https://github.com/andybeardness/Android-YesNoGame/blob/main/imgs/shot_dark_5.png) |
+
+----
+
+## Youtube preview
+
+soon
+
+----
+
+## Project about
+
+My goals when working on a project :
+
+- Write completely in my new language Kotlin
+- Add animations
+- Get a good experience with selectors
