@@ -1,3 +1,16 @@
 <resources>
-  <string name="app_name">YesNoGame</string>
+  <string name="app_name">ДаНетКи</string>
+  <string name="menu_info">Info</string>
+  <string name="info_text_1">Хоба!</string>
+  <string name="info_text_2">Взял это описание игры с какого-то сайта :</string>
+  <string name="info_text_3_accent">Данетки — это разновидность головоломок-загадок, которые представляют собой описание странных, необычных ситуаций. Как правило, загадка-данетка не содержит четкого вопроса. Просто играющим нужно выяснить, как такая ситуация могла возникнуть. Чтобы разгадать причины возникновения, или подоплеку, этой ситуации, играющие задают ведущему уточняющие, наводящие вопросы. Ведущий имеет право давать три типа ответов ДА, НЕТ и НЕВАЖНО. Отсюда и название игры.</string>
+  <string name="info_text_4">Сие творение я сдизайнерил в Figma, что было для меня в новинку. Стиль — минималистично-бумажный, если интересно</string>
+  <string name="info_text_5">Данетки взял с сайта, у которого должно быть своё приложение, но оно до сих пор «в разработке». А эту прилагу я сделал за пару вечеров</string>
+  <string name="info_text_6">Тут нет сложного интерфейса или крутых возможностей, так как писалась прилага на Kotlin, а я нём я пока новичок и это проба пера. Ибо я Java-enjoyer, а не Kotlin-fan</string>
+  <string name="info_text_7">Если хочешь посмотреть исходный код, то он по кнопке ниже :</string>
+  <string name="info_text_8">А ещё можно написать разрабу, ака мне, тут :</string>
+  <string name="contact_github">GitHub</string>
+  <string name="contact_instagram">Instagram</string>
+  <string name="contact_telegram">Telegram</string>
+  <string name="meme_description">meme : kotlin fan and java enjoyer</string>
 </resources>
