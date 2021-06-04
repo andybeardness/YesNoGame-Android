@@ -38,7 +38,16 @@ The rest of the players try to guess / solve the situation
 
 ## Youtube preview
 
-soon
+Click to play youtube video
+
+⚠️ DANGER :
+
+- _Link is opening at current tab_ 
+- _Video contains music_
+
+<a target="_blank" href="https://www.youtube.com/watch?v=MqfzQcR-00c">
+	<img src="https://github.com/andybeardness/Android-YesNoGame/blob/main/imgs/yt_preview.png" height="200">
+</a>
 
 ----
 
